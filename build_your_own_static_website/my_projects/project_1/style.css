@@ -1,0 +1,17 @@
+.card{
+    text-align: center;
+    background-color: #f0fdf4;
+}
+
+.heading{
+    color: #166534;
+}
+
+.text{
+    color: #4b5563;
+}
+
+.btn{
+    background-color: #16a3a4;
+    color: #ffffff;
+}
