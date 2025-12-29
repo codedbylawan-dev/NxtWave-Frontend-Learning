@@ -1,0 +1,9 @@
+s = input()
+
+result = ''
+
+for ch in s:
+    if ch.isalpha():
+        result = result + ch
+
+print(result)
